@@ -1,0 +1,17 @@
+{
+  "id": "397602dc-d315-4a43-bef8-34d6f3ed4fb3",
+  "date": "2022-04-12T23:52:01.248735Z",
+  "mainAccountName": "ambienteqa",
+  "accountName": "ambienteqa",
+  "subjectId": "75e9631b-3ebd-474a-a2f9-8479d0b7cf6b",
+  "authorId": "fb871a15-11f2-86f5-5a5f-185a1b682aab",
+  "application": "profile-system",
+  "operation": "GetProfileUnmasked",
+  "meta": {
+    "entityName": "profile",
+    "entityBeforeAction": "b2f073a8-2e3f-4a2a-a3bb-1551dee43fdd",
+    "entityAfterAction": "b2f073a8-2e3f-4a2a-a3bb-1551dee43fdd",
+    "remoteIpAddress": "0.0.0.0",
+    "fowardFromVtexUserAgent": "checkout"
+  }
+}
